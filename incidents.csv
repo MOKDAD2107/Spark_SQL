@@ -1,0 +1,15 @@
+id,titre,description,service,date
+1,Panne serveur,Serveur HS,IT,2023-02-11
+2,Problème réseau,Connexion lente,IT,2022-11-15
+3,Manque de stock,Rupture produit,Logistique,2023-01-10
+4,Incident RH,Erreur fiche paie,RH,2023-06-20
+5,Maintenance,Pompe en panne,Production,2022-08-05
+6,Bug logiciel,Erreur appli interne,IT,2023-03-22
+7,Incident sécurité,Porte cassée,Sécurité,2022-05-30
+8,Panne machine,Machine bloquée,Production,2023-04-12
+9,Défaillance caméra,Plus d’image,Sécurité,2023-07-01
+10,Erreur saisie,Facture incorrecte,Comptabilité,2022-09-10
+11,Courant coupé,Panne EDF,Sécurité,2023-11-23
+12,Défaut produit,Retour client,Production,2023-09-30
+13,Incident badgeuse,Accès refusé,RH,2022-02-11
+14,Retard pièces,Panne de fournisseur,Logistique,2022-12-28
